@@ -16,7 +16,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Theory**
 
-**Logic Diagram**
+**logic diagram**
 
 **Procedure**
 
@@ -61,11 +61,6 @@ endmodule
 
 **Output:**
 ![Screenshot 2024-11-25 184642](https://github.com/user-attachments/assets/413d90b7-6f57-453c-bb7d-3b5c4e2e08f2)
-
-**RTL**
-
-**Timing Diagram**
-
 **Result:**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
