@@ -3,6 +3,7 @@
 ```
 NAME : shakthivel v
 REG NUMBER: 24901278
+```
 # EXP2 . BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
